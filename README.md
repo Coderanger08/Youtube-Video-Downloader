@@ -6,9 +6,9 @@ The **YouTube Video Downloader** is a simple Python script that automates the pr
 
 ## Motivation
 
-Downloading videos from YouTube often requires third-party software or online services, which can be time-consuming and sometimes unreliable. I wanted to automate this process, making it more efficient, seamless, and customizable. After facing difficulties with existing tools, I decided to build my own video downloader with Python.
+I built this project because I wanted to learn how to automate tasks using Python. Specifically, I wanted to automate the process of downloading YouTube videos, which is typically done through third-party software or websites. By building this downloader, I learned how to integrate Python with external libraries like `yt-dlp` and `Tkinter`, and it gave me great insights into automating repetitive tasks.
 
-This project was created to simplify the YouTube video downloading experience and eliminate the need for external software. It allows users to easily download videos with just a few clicks.
+To guide me through the process, I followed a **YouTube tutorial**, which helped me understand how automation works in Python. This tutorial provided me with valuable insights into building projects that can automate different processes, and it helped me achieve my goal of creating a functional YouTube video downloader.
 
 ## Features
 
